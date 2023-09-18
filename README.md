@@ -1,3 +1,8 @@
+This project is a static e-commerece website.
+This is on woeking stage.
+Front-end was design in React.js and Html , CSS.
+Animation is using in this project you can check this.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
