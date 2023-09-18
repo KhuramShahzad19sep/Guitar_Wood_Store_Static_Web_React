@@ -1,10 +1,10 @@
-This project is a static e-commerece website GUITAR WOOD STORE and GUITAR WOOD CENTRE CO-Founder KHURAM SHAHZAD.
+This project is a static e-commerece website GUITAR WOOD CENTRE .
 This is on working stage.
 Front-end was design in React.js and Html, CSS.
 Animation is using in this project you can check this.
-You can easily and run this project as well.
+You can easily run  and test this project as well.
 Developer Team :
-CO-Founder and C.E.O ( KHURAM SHAHZAD Software Engineer)
+Khuram Shahzad
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
