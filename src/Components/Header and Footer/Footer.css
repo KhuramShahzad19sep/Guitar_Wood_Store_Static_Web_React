@@ -1,0 +1,21 @@
+.F1{
+    background-color: blueviolet;
+    color: aquamarine;
+}
+.text-muted{
+    background-color: rgb(62, 37, 86);
+border-width: 10px;
+border-color: black;
+color: aliceblue;
+}
+.P1{
+    color: aliceblue;
+    text-decoration: solid;
+    text-decoration-line: underline;
+    text-orientation: sideways-right;
+    text-decoration-color:rgb(122, 3, 241);
+    /* font-size: 100%; */
+    font-size: large;
+    
+    
+}

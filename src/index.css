@@ -1,13 +1,224 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
 
+
+  body.C1 {
+    background-color: gold;
+    color: white;
+    padding: 40px;
+    font-family: Sans-Serif;
+    text-align: center;
+  display: flex;
+  }
+  .Class1:hover{
+    border-block-color: 2px 2px;
+    background-color: rgba(16, 33, 69, 0.661);
+    box-shadow: black(3px 3px);
+  }
+  
+.Form:host{
+background-position: 20px;
+background-origin: padding-box;
+box-shadow: 10px;
+}
+.me-2{
+  /* size: 10px;
+  font-size: 100%; */
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+#C1{
+  /* background-color: blueviolet; */
+  background-color: black;
+}
+.C2{
+  /* background-color:black; */
+}
+.image{
+  width: 100%;
+  height: 500px;
+
+  border-radius: 10px
+  ;
+}
+.text-muted{
+  background-color: blueviolet;
+}
+.image2{
+  width: 10%;
+  height: 130px;
+
+  border-radius: 50px;
+  text-align: left;
+  background-color: rgb(78, 49, 105);
+  margin-right: 30px;
+  
+}
+.CT1{
+  background-color: rgb(80, 48, 110);
+  color: azure;
+}
+.Carousel1{
+  align-items: center;
+  /* background-color: aqua; */
+  cursor: pointer;
+  text-align: center;
+  content-visibility: calc();
+
+}
+
+.Carousel1{
+  width: 100vw;
+  height: 80vh;
+  /* background-color: antiquewhite; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Card{
+  background-color: bisque;
+
+
+
+}
+/* .image3{
+  width: "100%";
+} */
+.CARDS{
+  
+  display: flex;
+  border: 500dvh;
+  border-block-color: "black";
+  border-width: 100px;
+  border-block: 100px;
+/* width: 1170;
+margin: auto; */
+flex-wrap: wrap;
+background-size: cover;
+ margin: 10px,1px;
+ justify-content: center;
+flex-direction: row; 
+border: 2px solid gray;
+
+/* display: table; */
+background-color:aliceblue;
+/* box-shadow: 2px 2px red; */
+text-align: center;
+font-size: 15px;
+font-weight: 100;
+
+/* font-display: 10px; */
+text-shadow: 1px 1px  rgb(19, 3, 3); 
+text-shadow: 1px 1px  rgb(238, 229, 229);
+
+/* display: inline-block; */
+/* box-shadow: 10px , 10px; */
+/* display: inline-flexbox; */
+/* font-weight: bold;
+justify-content: space-evenly;
+flex-shrink: calc(1,2);
+flex-basis: 100%; */
+}
+
+.Guitar_Cards_G1{
+padding-bottom: 10%; 
+/* background-repeat: calc(2,2);   */
+background-color: rgb(58, 20, 20);
+margin-bottom: 1px;
+padding-bottom: 50%;
+flex-basis: 20%;
+
+}
+.Guitar_Cards_G2{
+  padding-bottom: 10%; 
+  /* background-repeat: calc(2,2);   */
+  background-color: rgb(58, 20, 20);
+  margin-bottom: 1px;
+  padding-bottom: 50%;
+  flex-basis: 20%;
+  
+  }
+  .Guitar_Cards_G3{
+    padding-bottom: 10%; 
+    /* background-repeat: calc(2,2);   */
+    background-color: rgb(58, 20, 20);
+    margin-bottom: 1px;
+    padding-bottom: 50%;
+    flex-basis: 20%;
+    
+    }
+    .Guitar_Cards_G4{
+      padding-bottom: 10%; 
+      /* background-repeat: calc(2,2);   */
+      background-color: rgb(58, 20, 20);
+      margin-bottom: 1px;
+      padding-bottom: 50%;
+      flex-basis: 20%;
+      
+      }
+      .Guitar_Cards_G5{
+        padding-bottom: 20%; 
+        /* background-repeat: calc(2,2);   */
+        background-color: rgb(58, 20, 20);
+        margin-bottom: 1px;
+        padding-bottom: 50%;
+        flex-basis: 20%;
+        
+        }
+        .Guitar_Cards_G6{
+          padding-bottom: 10%; 
+          /* background-repeat: calc(2,2);   */
+          background-color: rgb(58, 20, 20);
+          margin-bottom: 1px;
+          padding-bottom: 50%;
+          flex-basis: 20%;
+          
+          }
+/* .Guitar_Cards_G1:hover{
+  box-shadow: 2px 2px red;
+  background-color: aliceblue;
+
+}
+.Guitar_Cards_G2:hover{
+  box-shadow: 2px 2px red;
+  background-color: aliceblue;
+ 
+
+} */
+.CANVAS_CARD1:hover{
+ background-color: rgb(217, 231, 234);
+ justify-content: center;
+ text-align: center;
+ box-shadow: 2px 2px;
+ border-block: 20px;
+ font-weight: bolder;
+font-size: 20px;
+}
+.CANVAS_CARD2:hover{
+  background-color: rgb(217, 231, 234);
+  justify-content: center;
+  text-align: center;
+  box-shadow: 2px 2px;
+  border-block: 20px;
+  font-weight: bolder;
+  font-size: 20px;
+}
+@media (min-width: 576px) { 
+  body{
+    background-color: black;
+  }
+}
+.LOGO{
+  width: 5px;
+
+}
+.Media{
+  display: flex;
+  
+  justify-content: space-evenly;
+  border: 5px solid gray;
+  border-radius: 10px;
+  /* box-shadow: rebeccapurple; */
+  background-color: rgb(218, 248, 247);
+  
 }
